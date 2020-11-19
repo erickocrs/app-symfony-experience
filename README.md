@@ -4,7 +4,6 @@
 
 ###### [Links]
 - Symfony : https://symfony.com/
-- Symfony Oficial Documentation : https://symfony.com/
 - Blog André : https://medium.com/@symfonymaestro
 - Maker : https://symfony.com/doc/current/bundles/SymfonyMakerBundle/index.html
 - Composer Components List: https://packagist.org/
