@@ -1,5 +1,5 @@
 ###### [Links]
-!(https://github.com/erickocrs/app-symfony-experience/blob/main/symfony_logo.png?raw=true)
+![alt text](https://github.com/erickocrs/app-symfony-experience/blob/main/symfony_logo.png?raw=true)
 - Symfony : https://symfony.com/
 - Symfony Oficial Documentation : https://symfony.com/
 - Blog André : https://medium.com/@symfonymaestro
