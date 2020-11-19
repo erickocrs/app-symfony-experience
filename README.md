@@ -1,4 +1,6 @@
-<img width="50" src="https://github.com/erickocrs/app-symfony-experience/blob/main/symfony_logo.png">
+<p align="center">
+  <img width="50" src="https://github.com/erickocrs/app-symfony-experience/blob/main/symfony_logo.png">
+</p>
 
 ###### [Links]
 - Symfony : https://symfony.com/
