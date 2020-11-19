@@ -1,7 +1,4 @@
-![alt text](https://github.com/erickocrs/app-symfony-experience/blob/main/symfony_logo.png?raw=true)
-<p align="center">
-  <img width="50" src="https://github.com/erickocrs/app-symfony-experience/blob/main/symfony_logo.png">
-</p>
+<img width="50" src="https://github.com/erickocrs/app-symfony-experience/blob/main/symfony_logo.png">
 
 ###### [Links]
 - Symfony : https://symfony.com/
