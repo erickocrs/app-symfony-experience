@@ -1,14 +1,13 @@
 ###### [Links]
 
 - Symfony : https://symfony.com/
-- Documentação Oficial Symfony : https://symfony.com/
+- Symfony Oficial Documentation : https://symfony.com/
 - Blog André : https://medium.com/@symfonymaestro
 - Maker : https://symfony.com/doc/current/bundles/SymfonyMakerBundle/index.html
-- Lista Componentes do Composer : https://packagist.org/
+- Composer Components List: https://packagist.org/
 - FOSRestBundle : https://symfony.com/doc/3.x/bundles/FOSRestBundle/index.html
-  Form, FormType  : https://symfony.com/doc/current/components/form.html
-  The Repository : https://symfony.com/doc/current/doctrine.html#querying-for-objects-the-repository
-  Hyper CMD: https://hyper.is/
+- Form, FormType  : https://symfony.com/doc/current/components/form.html
+- The Repository : https://symfony.com/doc/current/doctrine.html#querying-for-objects-the-repository
 
 ###### [Install Doctrine] ORMs (Object Relational Mapper)
 
